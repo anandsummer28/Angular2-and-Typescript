@@ -1,5 +1,10 @@
 # HelloWorld
 
+This repo has different types of data flow.
+But it basically focus on the child-parent-grandparent data flow
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Development server
